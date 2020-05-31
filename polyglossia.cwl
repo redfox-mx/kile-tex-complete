@@ -2,6 +2,7 @@
 # redfox-98/30.05.2020
 # url: https://ctan.org/pkg/polyglossia
 # define lenaguages on doncument
+\usepackage{polyglossia}
 \setdefaultlanguage[options]{lang}
 \setdefaultlanguage{lang}
 \setmainlanguage{lang}
